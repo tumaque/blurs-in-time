@@ -1,4 +1,4 @@
 blurs-in-time
 =============
 
-Added Jira integration.
+Added Jira integration and HipChat integration.
